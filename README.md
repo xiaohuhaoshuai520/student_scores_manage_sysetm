@@ -1,6 +1,6 @@
-# student_scores_manage_sysetm
+student_scores_manage_sysetm
 使用纯 C 语言实现的一个控制台学生成绩管理系统，支持教师登录和学生登录
-教师支持的功能
+教师支持的功能\n\r
   1.管理学生(添加/删除/修改/查询)
   2.查看所有学生
   3.排序
